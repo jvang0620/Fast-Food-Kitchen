@@ -1,0 +1,17 @@
+End Of The Day Report
+
+Completed Orders:
+
+Incomplete Orders:
+BurgerOrder #2: numHamburgers: 10, numCheeseburgers: 10, numVeggieburgers: 3, numSodas: 4, orderToGo: true
+
+Orders Placed:
+BurgerOrder #1: numHamburgers: 3, numCheeseburgers: 15, numVeggieburgers: 4, numSodas: 10, orderToGo: false
+BurgerOrder #2: numHamburgers: 10, numCheeseburgers: 10, numVeggieburgers: 3, numSodas: 4, orderToGo: true
+BurgerOrder #3: numHamburgers: 1, numCheeseburgers: 1, numVeggieburgers: 1, numSodas: 2, orderToGo: false
+
+Total Items Sold:
+Hamburgers sold:14
+Chesseburgers sold:26
+Veggieburgers sold:8
+Sodas sold:16
